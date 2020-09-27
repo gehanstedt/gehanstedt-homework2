@@ -1,0 +1,27 @@
+/* Set background image */
+body {
+    background-color: transparent;
+    background-image: url("images/paper.gif");
+}
+
+/* Override font-family for <h1> and .navbar-brand */
+h1, .navbar-brand {
+    font-family: 'Cinzel', serif;
+}
+
+/* Make <h1> bold */
+h1 {
+    font-weight: bold;
+}
+
+.gregfooter-small {
+    height: 10px; 
+    background-color: #aaaaaa;
+}
+
+.gregfooter-large {
+    background-image: url("images/tiles-shapes-2617112_1280.wedp");
+    background-repeat: repeat;
+    height: 50px; 
+    background-color: #666666;
+}
