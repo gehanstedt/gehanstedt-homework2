@@ -18,8 +18,17 @@ h1 {
     font-weight: bold;
 }
 
+
 .spacer {
-    height: 30px; 
+    height: 60px; 
+}
+
+/* Add sticky footer code */
+footer {
+    position: fixed;
+    /* height: 60px; */
+    bottom: 0px;
+    width: 100%
 }
 
 .gregfooter-small {
@@ -33,5 +42,5 @@ h1 {
 }
 
 .portfolio-image-padding {
-/*    padding: 25px;  */
+    padding: 25px 25px 25px 25px;  
 }
