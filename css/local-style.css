@@ -41,6 +41,8 @@ footer {
     background-color: #666666;
 }
 
+/* Used for image padding */
 .portfolio-image-padding {
-    padding: 25px 25px 25px 25px;  
+/*    padding: 25px 25px 25px 25px;  */
+    padding: 20px 0px 20px 0px;
 }
